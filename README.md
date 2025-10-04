@@ -7,6 +7,14 @@ A modern, full-stack e-commerce platform designed for a seamless and intuitive o
 
 ShopHub is a complete MERN-stack application built to provide a fast, responsive, and user-friendly e-commerce solution. It features a robust backend to manage products, users, and orders, and a dynamic frontend built with React.
 
+## Images 
+<img width="1637" height="836" alt="image" src="https://github.com/user-attachments/assets/1e442efc-afba-4af0-91e5-071d48407b7f" />
+<img width="1593" height="882" alt="image" src="https://github.com/user-attachments/assets/c7eee901-225c-43e9-922c-1d422f40f80f" />
+<img width="1633" height="740" alt="image" src="https://github.com/user-attachments/assets/a1bb067f-0aa1-4e14-8b4f-053c346090c6" />
+<img width="1605" height="883" alt="image" src="https://github.com/user-attachments/assets/fad2a03f-0b50-4864-bef4-0ccab763469b" />
+<img width="1585" height="501" alt="image" src="https://github.com/user-attachments/assets/9057427d-ed96-4138-8678-06ce0b06d1e2" />
+<img width="1763" height="752" alt="image" src="https://github.com/user-attachments/assets/609fb347-6ce5-46d1-893e-57b99b8b3b19" />
+
 ## ✨ Key Features
 
 * **User Authentication:** Secure user registration and login functionality.
@@ -63,6 +71,3 @@ Make sure you have the following installed on your machine:
 
 ## 📄 License
 This project is licensed under the **Apache-2.0 License**. See the `LICENSE` file for more details.
-<img width="1637" height="836" alt="image" src="https://github.com/user-attachments/assets/1e442efc-afba-4af0-91e5-071d48407b7f" />
-
-
